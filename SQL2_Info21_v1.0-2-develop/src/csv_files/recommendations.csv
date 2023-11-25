@@ -1,0 +1,16 @@
+id,peer,recommendedpeer
+2,rosamonj,gerrerav
+3,rosamonj,gertruer
+4,rosamonj,kaleysha
+5,gerrerav,rosamonj
+6,gerrerav,ironbelg
+7,gerrerav,amazomuc
+8,gerrerav,kaleysha
+9,ironbelg,rosamonj
+10,ironbelg,gerrerav
+11,ironbelg,cringuer
+12,ironbelg,amazomuc
+13,amazomuc,kaleysha
+14,amazomuc,seakingc
+15,amazomuc,rosamonj
+16,amazomuc,cringuer
